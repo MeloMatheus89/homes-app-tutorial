@@ -18,3 +18,10 @@
 - Run the application 
 
   `ng serve`
+
+- If you don't have Json-server installed on your computer
+`npm install -g json-server`
+
+- To make the database function
+
+`json-server --watch db.json`
